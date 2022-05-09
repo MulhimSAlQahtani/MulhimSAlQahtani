@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MulhimSAlQahtani
 - 👀 I’m interested in Applications Development 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning ABAP  
 - 📫 How to reach me  eng.mulhimalqahtani@gmail.com
 
 <!---
